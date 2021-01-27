@@ -1,4 +1,4 @@
-#!/bin/bash
+@echo OFF
 cd build
 cmake --build .
 ctest -V
